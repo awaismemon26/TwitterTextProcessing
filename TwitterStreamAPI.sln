@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TwitterStreamAPI", "TwitterStreamAPI\TwitterStreamAPI.pyproj", "{04AF8467-F2EC-4FD0-A499-48FBBE55343C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04AF8467-F2EC-4FD0-A499-48FBBE55343C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AF8467-F2EC-4FD0-A499-48FBBE55343C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6218085-A224-4F30-8F5C-C4DB5479F438}
+	EndGlobalSection
+EndGlobal
